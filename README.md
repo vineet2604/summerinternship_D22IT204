@@ -1,4 +1,6 @@
-# summerinternship_D22IT204Week 1: The Humble Calculator
+# summerinternship_D22IT204
+Week 1: The Humble Calculator
+
 My Flutter adventure began with a timeless classic - a basic calculator app! This seemingly simple project laid the groundwork for my understanding of core Flutter concepts. Here's what a typical week looked like:
 
 Day 1 & 2: Setting Up the Foundation (️):
@@ -11,6 +13,7 @@ Day 5: Polishing and Testing (✨):
 Added visual elements like text styles and spacing for a user-friendly interface. Tested the app thoroughly to ensure accurate calculations and functionality.
 
 Week 2: Conquering Chaos with a To-Do App ✅
+
 Week two presented a more practical challenge - a to-do list app. Here, I honed my skills in creating a user interactive interface and managing application state.
 
 Day 1: Designing the Task List ():
@@ -26,6 +29,7 @@ Day 5: User Interface Refinement ():
 Added features like task completion toggle and the ability to edit existing tasks. Polished the UI for a clean and intuitive user experience.
 
 Week 3: Keeping Time with a Stopwatch ⏱️
+
 Week three shifted the focus to building a dynamic and interactive app with the creation of a stopwatch.
 
 Day 1: Understanding Timers (⏲️):
@@ -41,6 +45,7 @@ Day 5: Optimization and Testing ():
 Optimized the code for performance and efficient timer management. Tested the stopwatch app rigorously to ensure accurate timekeeping.
 
 Week 4: Tic Tac Toe - The Two-Player Challenge 🆚
+
 The final week presented the most complex challenge - a two-player tic tac toe game. This project required advanced skills in user interaction and game logic implementation.
 
 Day 1 & 2: Building the Game Board ():
